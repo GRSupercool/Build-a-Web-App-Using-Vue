@@ -159,11 +159,11 @@ Consider the following questions:
   
    
    
-   The.babel.config.js file  "which is the JavaScript ES Transpiler. This allows you to invoke state of the art JavaScript features". Accordng to scotch.io  Transpilers, or source-to-source compilers, are tools that read source code written in one programming language, and produce the equivalent code in another language. Aliases files are shortcutfiles functionality export with differnt export names, and the vue.config files are optional config file that will be automatically loaded by @vue/cli-service if it's present project root (next to package.json). You can also use the vue field in package.json, but do note in that case you will be limited to JSON-compatible values only. all the cnfig files help make our code browser compatible.
+   The.babel.config.js file  "which is the JavaScript ES Transpiler. This allows you to invoke state of the art JavaScript features". Accordng to scotch.io  Transpilers, or source-to-source compilers, are tools that read source code written in one programming language, and produce the equivalent code in another language. Aliases files are shortcutfiles functionality export with differnt export names, and the vue.config files are optional config file that will be automatically loaded by @vue/cli-service if it's present project root (next to package.json). You can also use the vue field in package.json, but do note in that case you will be limited to JSON-compatible values only. all the config files help make our code browser compatible.
    
    
     * Describe (in words and with a flowchart/diagram) what happens when the `npm run build` command is executed to the best of your ability.  
-    Allows  me to add code, webpack,and files from someone elses  library. Adding the additional settings, files, and configurations to build to build adn deply an app. 
+    Allows  me to add code, webpack,and files from someone elses  library. Adding the additional settings, files, minification and configurations to build to build and deply an app. 
     
     
     * Make a diagram of the components of this system like the ones shown in the Practical JavaScript 2: Building Applications book `Types of Website Architectures`. Do your best to document your interpretation of the architecture of this system.
