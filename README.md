@@ -1,4 +1,4 @@
-# Test Project for buiding Web Apps in Vue 
+# Test Project for Buiding Web Apps in Vue 
 Vue.js App for Testing
 
 > An example project for testing development environments.
