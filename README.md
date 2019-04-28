@@ -1,5 +1,7 @@
 # Test Project for Buiding Web Apps in Vue 
 Vue.js App for Testing
+http://192.168.2.129:8080/
+
 
 > An example project for testing development environments.
 
